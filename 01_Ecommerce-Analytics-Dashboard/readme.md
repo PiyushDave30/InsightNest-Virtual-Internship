@@ -38,7 +38,7 @@ A business-wide snapshot before drilling into specific questions. **KPIs:** Tota
 ### 3. Revenue & Profit Analysis
 **Answers Business Question 1.** A Field Parameter toggle switches a chart between Total Revenue and Total Profit by sub-category. Also shows profit by category and payment method, top 5 / bottom 5 products by profit, and a discount-bucket chart that pinpoints the exact discount level (~20%) where profit turns negative.
 
-![Revenue & Profit Analysis](Screenshots/3.%20Revenue%20%20%20Profit%20Analysis.png)
+![Revenue & Profit Analysis](Screenshots/3.%20Revenue%20&%20Profit%20Analysis.png)
 
 ---
 
@@ -59,7 +59,7 @@ A business-wide snapshot before drilling into specific questions. **KPIs:** Tota
 ### 6. Marketing & Seasonal Analysis
 **Answers Business Question 4.** Revenue and profit by marketing channel (Organic Search leads), average order value by channel and segment, weekday vs. weekend performance, and a quarterly revenue trend that highlights the Q4 seasonal spike.
 
-![Marketing & Seasonal Analysis](Screenshots/6.%20Marketing%20%20%20Seasonal%20Insights.png)
+![Marketing & Seasonal Analysis](Screenshots/6.%20Marketing%20&%20Seasonal%20Insights.png)
 
 ---
 
