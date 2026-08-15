@@ -2,7 +2,7 @@
 
 A 6-page Power BI dashboard that turns 1,000 raw ecommerce transaction records into a decision-support tool — answering four real business questions around sales, customers, returns, and marketing.
 
-![Home Page](screenshots/1_Home.png)
+![Home Page](Screenshots/1_Home.png)
 
 ## Core Idea
 
