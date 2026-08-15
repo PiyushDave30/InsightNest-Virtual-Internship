@@ -24,42 +24,42 @@ An ecommerce company has raw data on sales, customers, returns, and marketing, b
 ### 1. Home
 Landing page with navigation cards linking to all six report pages, giving a quick overview of what each page covers before diving in.
 
-![Home](screenshots/1_Home.png)
+![Home](Screenshots/1.%20Home.png)
 
 ---
 
 ### 2. Executive Overview
 A business-wide snapshot before drilling into specific questions. **KPIs:** Total Revenue (₹236.76K), Total Profit (₹66.19K), Total Orders (1,000), Total Customers (326), Profit Margin (27.96%), Return Rate (8.20%). Includes a monthly revenue & profit trend, revenue by country, revenue & profit by region, and a country/city performance table.
 
-![Executive Overview](screenshots/2_Executive_Overview.png)
+![Executive Overview](Screenshots/2.%20Executive%20Overview.png)
 
 ---
 
 ### 3. Revenue & Profit Analysis
 **Answers Business Question 1.** A Field Parameter toggle switches a chart between Total Revenue and Total Profit by sub-category. Also shows profit by category and payment method, top 5 / bottom 5 products by profit, and a discount-bucket chart that pinpoints the exact discount level (~20%) where profit turns negative.
 
-![Revenue & Profit Analysis](screenshots/3_Revenue___Profit_Analysis.png)
+![Revenue & Profit Analysis](Screenshots/3.%20Revenue%20%20%20Profit%20Analysis.png)
 
 ---
 
 ### 4. Customer Analysis
 **Answers Business Question 2.** Breaks customers down by payment method, customer type (Repeat: 275 vs. One-time: 51), and segment (Consumer/Corporate/Home Office). The revenue-by-customer-type chart shows repeat buyers alone account for 95.2% of total revenue.
 
-![Customer Analysis](screenshots/4_Customer_Analysis.png)
+![Customer Analysis](Screenshots/4.%20Customer%20Analysis.png)
 
 ---
 
 ### 5. Return Orders Insight
 **Answers Business Question 3.** Return rate by category (Fashion highest at 14.16%), profit vs. loss-profit by category, a monthly orders-vs-returns trend, and a shipping-mode performance table covering return rate, delivery days, shipping cost, and profit margin side by side.
 
-![Return Orders Insight](screenshots/5_Return_Orders.png)
+![Return Orders Insight](Screenshots/5.%20Return%20Orders.png)
 
 ---
 
 ### 6. Marketing & Seasonal Analysis
 **Answers Business Question 4.** Revenue and profit by marketing channel (Organic Search leads), average order value by channel and segment, weekday vs. weekend performance, and a quarterly revenue trend that highlights the Q4 seasonal spike.
 
-![Marketing & Seasonal Analysis](screenshots/6_Marketing___Seasonal_Insights.png)
+![Marketing & Seasonal Analysis](Screenshots/6.%20Marketing%20%20%20Seasonal%20Insights.png)
 
 ---
 
@@ -88,7 +88,7 @@ A business-wide snapshot before drilling into specific questions. **KPIs:** Tota
 ```
 ├── README.md                      This file
 ├── raw-data/                      Raw dataset + data dictionary
-├── screenshots/                   Dashboard page images
+├── Screenshots/                   Dashboard page images
 └── power-bi-file/                 .pbix file, dashboard PDF export, and technical documentation
 ```
 
