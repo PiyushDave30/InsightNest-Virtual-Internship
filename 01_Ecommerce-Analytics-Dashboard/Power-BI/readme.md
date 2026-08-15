@@ -6,8 +6,8 @@ Documentation for the files in this folder.
 
 | File | Description |
 |---|---|
-| `Ecommerce Analysis.pbix` | The full Power BI file — open in Power BI Desktop to explore interactively |
-| `Ecommerce Analysis.pdf` | Static export of all 6 pages, for quick viewing without Power BI installed |
+| [Ecommerce Analysis](Ecommerce%20Analysis.pbix) | The full Power BI file — open in Power BI Desktop to explore interactively |
+| [Ecommerce Analysis Dashboard PDF](Ecommerce%20Analysis.pdf) | Static export of all 6 pages, for quick viewing without Power BI installed |
 | Screenshot | Reference image of the dashboard used in documentation |
 
 ## Data Model
