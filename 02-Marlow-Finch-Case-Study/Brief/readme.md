@@ -1,7 +1,7 @@
 # Brief
 
 ## What's in this folder
-[Marlow_Finch_Client_Diagnostic_Brief](Marlow_Finch_Client_Diagnostic_Brief.pdf) — the diagnostic brief for the Marlow & Finch case study. This is the only input document for the analysis — everything in `../my-analysis/` is built from what's summarized here.
+[Marlow_Finch_Client_Diagnostic_Brief](Marlow_Finch_Client_Diagnostic_Brief.pdf) — the diagnostic brief for the Marlow & Finch case study. This is the only input document for the analysis — everything in [My-Analysis](02-Marlow-Finch-Case-Study/My-Analysis) is built from what's summarized here.
 
 ## Engagement Snapshot
 | Item | Detail |
