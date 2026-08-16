@@ -1,11 +1,11 @@
 # My Analysis
 
 ## What's in this folder
-Two documents that cover my full process on the Marlow & Finch case study — from first reading the brief to answering the guiding questions. Both are based only on the aggregate numbers in `../brief/`; no raw transaction-level data has been shared yet.
+Two documents that cover my full process on the Marlow & Finch case study — from first reading the brief to answering the guiding questions. Both are based only on the aggregate numbers in [Brief](https://github.com/PiyushDave30/InsightNest-Virtual-Internship/tree/main/02-Marlow-Finch-Case-Study/Brief) no raw transaction-level data has been shared yet.
 
 ---
 
-## `Marlow_Finch_Initial_Understanding_and_Approach.docx`
+## [Marlow_Finch_Initial_Understanding_and_Approach](Marlow_Finch_Initial_Understanding_and_Approach.docx)
 
 My first pass on the brief, written before doing any analysis — this is where I broke the problem down and planned how to approach it.
 
@@ -23,7 +23,7 @@ My first pass on the brief, written before doing any analysis — this is where 
 
 ---
 
-## `Marlow_Finch_Findings_and_Recommendations.docx`
+## [Marlow_Finch_Findings_and_Recommendations](Marlow_Finch_Findings_and_Recommendations.docx)
 
 My answers to the guiding questions, built entirely from the numbers already available in the brief.
 
