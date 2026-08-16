@@ -29,9 +29,9 @@ Marlow & Finch is experiencing revenue decline and falling profitability at the 
 
 | File | Folder | What it is |
 |---|---|---|
-| [Marlow_Finch_Client_Diagnostic_Brief](Marlow_Finch_Client_Diagnostic_Brief.pdf) | The diagnostic brief — company overview, 8-quarter revenue & margin data by channel, category/inventory numbers, and the six issues leadership flagged for investigation. |
-| [Marlow_Finch_Initial_Understanding_and_Approach](Marlow_Finch_Initial_Understanding_and_Approach.docx) | My first pass on the brief — problem restated in my own words, and for each flagged issue, the questions I planned to investigate and my initial direction. |
-| [Marlow_Finch_Findings_and_Recommendations](Marlow_Finch_Findings_and_Recommendations.docx) | My answers to the guiding questions based on the brief's numbers — findings, prioritized root causes, and recommendations split by team. |
+| [Marlow_Finch_Client_Diagnostic_Brief](Marlow_Finch_Client_Diagnostic_Brief.pdf) | [Brief]() | The diagnostic brief — company overview, 8-quarter revenue & margin data by channel, category/inventory numbers, and the six issues leadership flagged for investigation. |
+| [Marlow_Finch_Initial_Understanding_and_Approach](Marlow_Finch_Initial_Understanding_and_Approach.docx) | [My-Analysis]() | My first pass on the brief — problem restated in my own words, and for each flagged issue, the questions I planned to investigate and my initial direction. |
+| [Marlow_Finch_Findings_and_Recommendations](Marlow_Finch_Findings_and_Recommendations.docx) | [My-Analysis]() | My answers to the guiding questions based on the brief's numbers — findings, prioritized root causes, and recommendations split by team. |
 
 ## Approach
 The brief raises six issues, each treated as a hypothesis to be tested rather than an established fact:
