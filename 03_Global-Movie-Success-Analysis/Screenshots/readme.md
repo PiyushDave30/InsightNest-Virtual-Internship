@@ -18,30 +18,35 @@ The following screenshots provide a visual overview of the interactive Power BI 
 
 ## Dashboard Pages
 
-### Page 1 — Overall Movie Analysis
+### Dashboard Page 1
 
-![Power BI Page 1]()
+![Power BI Dashboard - Page 1](Home.png)
 
-### Page 2 — Financial & Movie Performance
+### Dashboard Page 2
 
-![Power BI Page 2](<POWER-BI-PAGE-2-FILENAME>)
+![Power BI Dashboard - Page 2](Movie_Overview.png)
 
-### Page 3 — Audience & Rating Analysis
+### Dashboard Page 3
 
-![Power BI Page 3](<POWER-BI-PAGE-3-FILENAME>)
+![Power BI Dashboard - Page 3](Financial_%20Perf.png)
 
-### Page 4 — Genre & Performance Analysis
+### Dashboard Page 4
 
-![Power BI Page 4](<POWER-BI-PAGE-4-FILENAME>)
+![Power BI Dashboard - Page 4](Audience_Insight.png)
 
-### Page 5 — Crew Performance Analysis
+### Dashboard Page 5
 
-![Power BI Page 5](<POWER-BI-PAGE-5-FILENAME>)
+![Power BI Dashboard - Page 5](Crew_Performance.png)
 
-> The Power BI dashboard screenshots show the interactive analysis used to explore movie performance across different financial, genre, audience and crew dimensions.
+### Dashboard Page 6
+
+![Power BI Dashboard - Page 6](Business_Questions.png)
+
+### Dashboard Page 7
+
+![Power BI Dashboard - Page 7](BQ4_Detailed_Ans.png)
 
 ---
-
 # Business Question Supporting Visuals
 
 These are close-up visuals extracted from the analysis to support the answers to the four main business questions.
@@ -54,7 +59,7 @@ These are close-up visuals extracted from the analysis to support the answers to
 
 **Does a higher budget lead to greater box office revenue?**
 
-![Q1 Budget vs Revenue](Q1%20Budget%20vs%20Revenue%281%29.png)
+![Q1 Budget vs Revenue](Q1%20Budget%20vs%20Revenue.png)
 
 The scatter plot compares movie budget with box office revenue. Higher-budget movies generally tend to generate higher revenue, but budget alone does not guarantee commercial success.
 
