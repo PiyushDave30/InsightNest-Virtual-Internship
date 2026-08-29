@@ -1,11 +1,3 @@
-
----
-
-# `Data/Cleaned-Data/README.md`
-
-This one is the more important one because it explains what was actually added during preparation.
-
-```md
 # Cleaned Movie Dataset
 
 This folder contains the cleaned and analysis-ready version of the Global Movies Dataset used for the project analysis.
@@ -25,7 +17,7 @@ The cleaned dataset retains the original 100,000 movie records and includes addi
 
 ## File
 
-`Python_Cleaned_Data.csv`
+[Cleaned Data File](Python_Cleaned_Data.csv)
 
 ## Data Preparation
 
