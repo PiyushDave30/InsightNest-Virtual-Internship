@@ -10,7 +10,7 @@ Python was mainly used for data preparation, exploratory data analysis (EDA), ou
 
 | File | Description |
 |---|---|
-| (Keshav_Final.ipynb) | Python analysis and data preparation notebook |
+| [Keshav Python Work](Global-Movie-Success-Analysis.ipynb) | Python analysis and data preparation notebook |
 
 > The notebook contains the Python-based analysis performed before the final Power BI dashboarding stage.
 
