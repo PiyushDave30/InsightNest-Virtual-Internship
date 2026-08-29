@@ -10,10 +10,6 @@ It includes screenshots of the Power BI dashboard pages and close-up supporting 
 
 The following screenshots provide a visual overview of the interactive Power BI dashboard.
 
-## Dashboard Overview
-
-[Power BI Dashboard](Power-BI/Global%20Movie%20Dataset%20Analysis.pbix)
-
 ---
 
 ### Dashboard Page 1
