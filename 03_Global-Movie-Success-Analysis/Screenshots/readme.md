@@ -12,7 +12,7 @@ The following screenshots provide a visual overview of the interactive Power BI 
 
 ## Dashboard Overview
 
-![Power BI Dashboard](03_Global-Movie-Success-Analysis/Power-BI/Global Movie Dataset Analysis.pbix)
+[Power BI Dashboard](03_Global-Movie-Success-Analysis/Power-BI/Global Movie Dataset Analysis.pbix)
 
 ---
 
