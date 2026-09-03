@@ -10,7 +10,7 @@ The complete, interactive Power BI report — data model, Power Query transforma
 **`NovaKart_Analysis.pdf`**
 A static, page-by-page export of the full dashboard for anyone without Power BI Desktop installed.
 
-## Data Model
+## Data Model 
 
 Four fact/dimension tables plus a dedicated date table, connected as follows:
 
