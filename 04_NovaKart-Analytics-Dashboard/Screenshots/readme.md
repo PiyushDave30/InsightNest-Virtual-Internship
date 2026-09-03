@@ -13,7 +13,7 @@ Landing page. Dark sidebar with project title, a short business-framing statemen
 
 ### `Sales_Analysis.png`
 **Page 2.** Six KPI cards (Net Revenue, YoY Growth %, Avg Discount %, Gross Profit, Top 20% Customer Revenue Share, Oct–Nov Revenue Share %), a margin-by-sub-category bar chart, top 5 states table, a segment-vs-revenue donut, a combined category revenue/margin table, and orders-by-payment-method bar chart.
-
+ 
 ### `Delivery_Return_Insight.png`
 **Page 3.** Six KPI cards (Net Revenue, Cancelled Revenue, Total Returns, Return Rate %, Avg Delivery Days, Worst Category), a return-rate-by-sub-category heat-shaded table, top 10 return reasons, Metro vs Tier-2 delivery comparison, channel-vs-delivery-days chart, delivery-speed-vs-return-rate table, payment-type-vs-cancellation table, and city-vs-COD table.
 
