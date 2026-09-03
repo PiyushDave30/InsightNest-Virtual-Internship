@@ -7,7 +7,7 @@ This folder contains the source dataset used for the NovaKart Analytics Dashboar
 **`NovaKart_Analyst_Practice_Pack.xlsx`**
 
 An Excel workbook containing the original raw data as received, alongside the cleaned/transformed tables produced during the Power Query cleaning process (Tier 1 — see the [main project README](../README.md#tier-1--data-cleaning) for the full cleaning methodology).
-
+ 
 ## Workbook Contents
 
 The file is organized into the following sheets:
