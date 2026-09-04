@@ -182,7 +182,7 @@ This capped revenue figure (`revenue%20capped`) is what powers the Crew Success 
 | Q3 | Is there a relationship between audience ratings and commercial success? | IMDb / Audience Score vs Revenue & ROI |
 | Q4 | Which directors or actors consistently deliver successful movies? | Actor & Director Performance |
 
-![Business Questions](Screenshots/Business%20Questions.png)
+![Business Questions](Business-Questions)
 
 ---
 
